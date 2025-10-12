@@ -67,7 +67,7 @@ We provide all pre-trained models here.
 |SAM2| 1% SA-1B |TBA|
 
 ## 📜Citation
-If you find this work helpful for your project,please consider citing the following paper:
+If you find this work helpful for your project, please consider citing the following paper:
 ```
 @misc{xu2025hrmedsegunlockinghighresolutionmedical,
       title={HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling}, 
